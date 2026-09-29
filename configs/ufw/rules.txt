@@ -1,0 +1,4 @@
+22/tcp  ALLOW
+80/tcp  ALLOW
+443/tcp ALLOW
+

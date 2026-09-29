@@ -1,0 +1,6 @@
+*.log
+*.tar.gz
+*.sql
+.env
+backup/
+tmp/
